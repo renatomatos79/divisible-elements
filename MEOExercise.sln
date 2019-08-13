@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEOExercise", "MEOExercise\MEOExercise.csproj", "{3DEAEE78-3970-46A6-AFF4-78ABA6829537}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{01B4DC93-7421-4F5E-B966-564034A91450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEOExercise.Test", "MEOExercise.Test\MEOExercise.Test.csproj", "{D398A40B-7E41-45E6-A65C-B308DCB9E78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEAEE78-3970-46A6-AFF4-78ABA6829537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEAEE78-3970-46A6-AFF4-78ABA6829537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEAEE78-3970-46A6-AFF4-78ABA6829537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEAEE78-3970-46A6-AFF4-78ABA6829537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D398A40B-7E41-45E6-A65C-B308DCB9E78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D398A40B-7E41-45E6-A65C-B308DCB9E78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D398A40B-7E41-45E6-A65C-B308DCB9E78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D398A40B-7E41-45E6-A65C-B308DCB9E78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D398A40B-7E41-45E6-A65C-B308DCB9E78A} = {01B4DC93-7421-4F5E-B966-564034A91450}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B7E11A-1ED5-4633-AF93-A56CD0244FB5}
+	EndGlobalSection
+EndGlobal
